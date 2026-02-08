@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/rajsiddarth>/<SocialMediaAIAgent>/HEAD
+)
+
 Social Media Customer Agent 🤖
 
 An AI-powered customer support agent designed to simulate and respond to social media user posts.
