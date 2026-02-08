@@ -1,6 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](
-https://mybinder.org/v2/gh/rajsiddarth>/<SocialMediaAIAgent>/HEAD
+https://mybinder.org/v2/gh/rajsiddarth/SocialMediaAIAgent/HEAD?filepath=Social%20media%20customer%20agent.ipynb
 )
+
 
 Social Media Customer Agent 🤖
 
